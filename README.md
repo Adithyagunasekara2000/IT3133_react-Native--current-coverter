@@ -2,7 +2,7 @@
 <h1>About App</h1>
 This is the simple app for convert the Sri lankan Rupees to USD.
 <h2> Start with blank template</h2>
-  npx create-expo-app MyMobileApp --currency Converter
+  npx create-expo-app MyMobileApp --template blank
 <h2> Install web dependencies</h2>
 npx expo install react-dom react-native-web @expo/metro-runtime 
 <h2> Start the expo app </h2>
